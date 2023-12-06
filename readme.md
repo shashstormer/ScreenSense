@@ -31,9 +31,11 @@ This is a simple script that tracks your usage across all your apps on windows.
    > 2. Improve the way data is stored (format of data, using more data like times the app was in use).
    > 3. Aggregate data better to allow for more advanced analysis.
 
-### Request features by creating an issue.
-### Feel free to contribute to the project.
-### If you have any questions, feel free to contact me at:  
-> Email: [shashanka5398@gmail.com](mailto:shashanka5398@gmail.com)
+
+### If you have any questions, suggestions, bug reports, or feature requests feel free to contact me at:  
+> Email: [shashanka5398@gmail.com](mailto:shashanka5398@gmail.com) (avoid)
 > 
-> Discord: [shashstorm's server](https://discord.gg/CgDsUGAKtA)
+> Discord: [shashstorm's server](https://discord.gg/CgDsUGAKtA) (preferred)
+
+### I prefer you contact through discord for any issues or suggestions
+But It is okay to create an issue on github if you are not comfortable with discord.
