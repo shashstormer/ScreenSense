@@ -37,5 +37,5 @@ This is a simple script that tracks your usage across all your apps on windows.
 > 
 > Discord: [shashstorm's server](https://discord.gg/CgDsUGAKtA) (preferred)
 
-### I prefer you contact through discord for any issues or suggestions
-But It is okay to create an issue on github if you are not comfortable with discord.
+### I prefer you contact through discord for any issues or suggestions or requests or bug reports.
+You can always create an issue on github if you are not comfortable with discord.
