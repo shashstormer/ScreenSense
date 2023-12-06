@@ -4,8 +4,6 @@ from utils import is_user_active, active_window_details, processes_exes, get_win
 from config import inactivity_threshold_seconds, usage_data_folder, check_app_running
 from aggregate import main as aggregate_data
 import threading
-import tkinter as tk
-import tkinter.messagebox
 
 check_app_running()
 
@@ -69,8 +67,4 @@ while True:
         last_date = datetime.now().date()
         usage_data = {}
         aggregate_data()
-        root = tk.Tk()
-        root.withdraw()
-        tk.messagebox.showinfo(title="New day", message="New day, aggregating data")
-        root.destroy()
     usage_data_file = f"{usage_data_folder}/{get_current_date()}.json"

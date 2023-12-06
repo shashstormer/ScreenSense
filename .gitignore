@@ -1,3 +1,6 @@
 *.json
 .idea/*
 *.lnk
+build/*
+dist/*
+*.spec
